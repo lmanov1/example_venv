@@ -6,5 +6,5 @@ pip install wheel
 pip install -r ./requirements.txt
 
 pip list
-sudo python3 ./create_configs.py 
+#sudo python3 ./something.py 
 deactivate
